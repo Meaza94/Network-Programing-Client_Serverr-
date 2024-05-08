@@ -1,9 +1,3 @@
-//Name:
-//Student ID:
-//Date:
-//Professor:
-
-
 
 // Server Code
 import java.io.*;
